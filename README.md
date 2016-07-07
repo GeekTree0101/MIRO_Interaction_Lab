@@ -14,7 +14,7 @@ This Adventage is more Productivity and Fast to making Template! and so easy
 
 This is HTTPservice sample
 
-"""ts
+"""js
 /*
 
   AngularJS2 Http Protocol service with Ionic2
@@ -125,7 +125,7 @@ export class HttpProtocalService{
 
 This is Component Sample
 
-"""ts
+"""js
 /*
   AngularJS2 Component with Ionic2
   Copyright(C) 2016 Ha Hyeon soo
